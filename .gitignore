@@ -1,0 +1,12 @@
+# Python virtual environment
+.venv/
+
+# PyCharm files
+.idea/
+
+# Dataset / local data
+data_dir/
+
+# Python cache
+__pycache__/
+*.pyc
