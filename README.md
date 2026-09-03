@@ -1,4 +1,4 @@
-# SAR Oil Spill Detection
+# SAR Oil Spill Identification
 
 A classical computer vision pipeline that detects oil spills in SAR (Synthetic Aperture Radar) satellite imagery — no deep learning, fully interpretable, built from hand-engineered filters, thresholding, morphology, and shape/texture descriptors.
 
